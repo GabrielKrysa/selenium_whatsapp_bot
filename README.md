@@ -16,4 +16,4 @@ https://github.com/mozilla/geckodriver/releases
 
 ## Autor
 
-* **Gabriel Krysa** - *Initial work* - [github](https://github.com/GabrielKrysa)
+* **Gabriel Krysa** - [Facebook](https://www.facebook.com/Krysa99)
