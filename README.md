@@ -3,12 +3,15 @@
 * Python 3.x
 * Geckodriver
 * Firefox (ou outro browser da sua escolha)
-* Todas as bibliotecas citadas a seguir
+* Biblioteca selenium
 
-### Instalação da biblioteca
- * **selenium** - An API to write functional/acceptance tests using Selenium WebDriver.
+### Recomendação
+* **PIP update** - python -m pip install --upgrade pip
 
-### Geckodriver 
+### Instalação da biblioteca com PIP
+ * **selenium** - pip install selenium 
+
+### Download Geckodriver 
 https://github.com/mozilla/geckodriver/releases
 
 ## Autor
